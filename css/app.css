@@ -11,7 +11,7 @@ body {
 
 .btn {
   display: inline-block;
-  background: cornflowerblue;
+  background: #852729;
   border-radius: 3px;
   padding: 0.5em 2em;
   text-decoration: none;
@@ -27,14 +27,14 @@ body {
   max-width: 30em; }
 
 .app-header {
-  background: #d2d2d2;
+  background: #1E537B;
   padding: 1em; }
 
 .app-header h1 {
   margin: 0;
   font-size: 1.2em;
   font-weight: 100;
-  text-shadow: 1px 1px 1px #fff; }
+  color: #fff; }
 
 .app-footer {
   border-top: 3px solid #111;

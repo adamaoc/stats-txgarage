@@ -19,7 +19,7 @@
       });
       console.log(this.campaigns);
     }
-  }
+  };
 
   campaign.init();
 

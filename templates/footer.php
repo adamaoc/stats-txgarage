@@ -3,6 +3,5 @@
 </footer>
 
 <script src="js/app.js"></script>
-<script src="js/campaign.js"></script>
 </body>
 </html>
